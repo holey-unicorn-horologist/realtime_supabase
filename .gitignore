@@ -37,3 +37,4 @@ config/prod.secret.exs
 demo/.env
 
 .lexical
+.env
